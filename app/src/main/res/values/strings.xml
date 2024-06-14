@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Deteksi Buah Pisang</string>
+    <string name="klasifikasi_sebagai" translatable="false">Klasifikasi sebagai :</string>
+    <string name="ambil_gambar" translatable="false">Ambil Gambar</string>
+    <string name="pilih_gambar_galeri" translatable="false">Pilih Gambar Galeri</string>
+    <string name="powered_by_laskar_orbit" translatable="false">Powered By Laskar Orbit</string>
+    <string name="hasil" translatable="false">Hasil</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="loading">Loading</string>
+    <string name="textview">TextView</string>
+    <string name="mulai">Mulai</string>
+</resources>
